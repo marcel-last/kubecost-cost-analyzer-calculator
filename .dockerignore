@@ -1,0 +1,23 @@
+# Version control
+.git
+.gitignore
+CODEOWNERS
+
+# Docs
+*.md
+
+# Caches
+.idea
+.cache
+.DS_Store
+
+# Build related
+.buildkite
+.dockerignore
+.env.template
+archive.tar.gz
+artifact.tar.gz
+ci-scripts
+composer.*
+Dockerfile
+Makefile
